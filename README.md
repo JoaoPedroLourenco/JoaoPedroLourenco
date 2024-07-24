@@ -29,6 +29,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoPedroLourenco/JoaoPedroLourenco/output/snake.svg" alt="Snake animation" />
 
 ###
