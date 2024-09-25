@@ -1,4 +1,4 @@
-<p align="center">Olá, eu sou o João Pedro e sou Web Developer</p>
+# Olá, eu sou o João Pedro e sou Web Developer
 
 ###
 
