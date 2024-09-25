@@ -1,4 +1,4 @@
-# Olá, eu sou o João Pedro e sou Web Developer
+# Olá 👋, eu sou o João Pedro e sou Web Developer
 
 ###
 
